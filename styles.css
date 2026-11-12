@@ -142,8 +142,9 @@ section{padding:96px 0}
 .biz .actions{display:flex;flex-wrap:wrap;gap:12px}
 
 /* certificates */
-.certs{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:44px}
-@media (max-width:1000px){.certs{grid-template-columns:repeat(2,1fr)}}
+.certs{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-top:44px}
+@media (max-width:1100px){.certs{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:760px){.certs{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.certs{grid-template-columns:1fr}}
 .cert{border:1px solid var(--line);border-radius:var(--r);padding:24px;display:flex;flex-direction:column;gap:10px;background:#fff}
 .cert .seal{width:48px;height:48px;border-radius:50%;background:var(--sky);display:grid;place-items:center}

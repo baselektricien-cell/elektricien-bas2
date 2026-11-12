@@ -2,7 +2,7 @@
 
 Also known as: Elektricien Bas, SiliQonTech.
 
-> Certified electrician based in Elsrijk, Amstelveen (Netherlands), serving Amstelveen, Amsterdam, Aalsmeer, Haarlem and Almere. Homes and businesses. 24/7 emergency service. Dutch and English spoken. NEN 1010, NEN 3140 and SCIOS certified; business inspections through Keuring Service Nederland. Rated 4.8/5 from 36 Google reviews.
+> Certified electrician based in Elsrijk, Amstelveen (Netherlands), serving Amstelveen, Amsterdam, Aalsmeer, Haarlem and Almere. Homes and businesses. 24/7 emergency service. Dutch and English spoken. NEN 1010, NEN 3140, SCIOS Scope 8 and SCIOS Scope 10 certified; business inspections through Keuring Service Nederland. Rated 4.8/5 from 36 Google reviews.
 
 ## Contact
 - Phone / WhatsApp: +31 6 1171 6662
@@ -17,12 +17,13 @@ Also known as: Elektricien Bas, SiliQonTech.
 - [Fuse box replacement](https://elektricien-bas.vercel.app/groepenkast-vervangen/): new fuse boxes (groepenkast), extra circuits, earthing, 3-phase connections for solar panels and EV chargers
 - [EV charger installation](https://elektricien-bas.vercel.app/laadpaal-installeren-amstelveen/): home and business chargers, including a check of the fuse box and connection
 - [LED lighting](https://elektricien-bas.vercel.app/led-verlichting/): stair lighting, ambient and indoor/outdoor lighting, dimmers, sensors, smart lighting
-- [Electrical inspections for businesses](https://elektricien-bas.vercel.app/elektra-keuring-bedrijven/): SCIOS and NEN 3140 inspections for restaurants, shops and offices, with an inspection report
+- [Electrical inspections for businesses](https://elektricien-bas.vercel.app/elektra-keuring-bedrijven/): SCIOS Scope 8 and Scope 10 inspections for restaurants, shops and offices, with an inspection report
 - Security: CCTV cameras, video intercoms, smart doorbells
 - [English-speaking electrician](https://elektricien-bas.vercel.app/english-speaking-electrician-amsterdam/): quotes and communication in English for expats
 
 ## Certifications
 - NEN 1010 (safe installation of electrical systems)
 - NEN 3140 (safe operation, maintenance and inspection)
-- SCIOS (inspection scheme often required by insurers)
+- SCIOS Scope 8 (inspection of electrical installations in business premises, NEN 3140; often required by insurers)
+- SCIOS Scope 10 (inspection of electrical equipment for fire risk, NTA 8220)
 - Keuring Service Nederland (business inspections)
