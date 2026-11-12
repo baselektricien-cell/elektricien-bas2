@@ -153,10 +153,12 @@ section{padding:96px 0}
 .gbox .g{width:36px;height:36px;border-radius:50%;background:var(--sky);display:grid;place-items:center;font-weight:800;color:var(--blue)}
 .stars{display:flex;gap:2px;color:var(--star)}
 .stars svg{width:18px;height:18px}
-.rev-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
-@media (max-width:760px){.rev-grid{grid-template-columns:1fr}}
+.rev-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media (max-width:960px){.rev-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){.rev-grid{grid-template-columns:1fr}}
 .rev{background:var(--paper);border-radius:var(--r);padding:28px;margin:0}
-.rev p{font-size:1.18rem;line-height:1.5;margin-top:12px;font-weight:500}
+.rev{display:flex;flex-direction:column}
+.rev p{font-size:1.02rem;line-height:1.55;margin-top:12px;font-weight:500;flex:1}
 .rev footer{margin-top:14px;color:var(--muted);font-size:.95rem}
 
 /* services */
@@ -399,18 +401,38 @@ footer.site a{color:#fff;text-decoration:none}footer.site a:hover{text-decoratio
   <div class="wrap">
     <div class="reviews-head">
       <h2><span lang="nl">Wat klanten zeggen</span><span lang="en">What customers say</span></h2>
-      <a class="gbox" id="reviewsLink" href="#" target="_blank" rel="noopener"><span class="g">G</span><span><span class="stars" aria-hidden="true"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></span><span lang="nl">Alle reviews op Google</span><span lang="en">All reviews on Google</span></span></a>
+      <a class="gbox" id="reviewsLink" href="#" target="_blank" rel="noopener"><span class="g">G</span><span><b style="font-size:1.25rem">4,8</b> <span class="stars" style="display:inline-flex;vertical-align:-3px" aria-hidden="true"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></span><br><span style="font-weight:500;color:var(--muted);font-size:.92rem"><span lang="nl">36 reviews op Google · alle reviews bekijken</span><span lang="en">36 reviews on Google · see all</span></span></span></a>
     </div>
     <div class="rev-grid">
       <blockquote class="rev">
         <div class="stars" aria-label="5 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
-        <p>“Binnen een dag geholpen. Netjes gewerkt en alles werkt top!”</p>
-        <footer><span lang="nl">Klant uit Amstelveen</span><span lang="en">Customer in Amstelveen</span></footer>
+        <p>“We suddenly lost electricity due to a short circuit and needed urgent help. He responded quickly, arrived on time, identified the problem, and fixed it professionally. Excellent service, fair pricing, and very reliable. Highly recommended!”</p>
+        <footer>Azadeh H. · <span lang="nl">Storing / spoed</span><span lang="en">Power fault / emergency</span> · Google</footer>
       </blockquote>
       <blockquote class="rev">
         <div class="stars" aria-label="5 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
-        <p>“Snelle storingsdienst, vriendelijke communicatie.”</p>
-        <footer><span lang="nl">Klant uit Amsterdam</span><span lang="en">Customer in Amsterdam</span></footer>
+        <p>“Vanaf nu mijn vaste elektricien. Net en vakkundig werk, alles schoon achtergelaten en duidelijke uitleg over de werkzaamheden en het proces. Betrouwbaar, professioneel en prettig in de omgang. Zeker een aanrader!”</p>
+        <footer>AJ · <span lang="nl">Installatie</span><span lang="en">Installation</span> · Google</footer>
+      </blockquote>
+      <blockquote class="rev">
+        <div class="stars" aria-label="5 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+        <p>“We had a fantastic experience with Bas for our EV charger installation. He is very knowledgeable, local to Amstelveen, work was done neatly. I can very much recommend his services to anyone looking for high-quality electrical work.”</p>
+        <footer>Irina B. · <span lang="nl">Laadpaal</span><span lang="en">EV charger</span> · Google</footer>
+      </blockquote>
+      <blockquote class="rev">
+        <div class="stars" aria-label="5 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+        <p>“We are very happy with Bas's work at our house in Amsterdam. He replaced our old fuse box with a new one and made sure everything is safe.”</p>
+        <footer>Juan M. · <span lang="nl">Groepenkast</span><span lang="en">Fuse box</span> · Google</footer>
+      </blockquote>
+      <blockquote class="rev">
+        <div class="stars" aria-label="4 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg style="opacity:.25"><use href="#i-star"/></svg></div>
+        <p>“Bas solved a tricky power outage problem in our office. He found the issue quickly and fixed it without any hassle!”</p>
+        <footer>Sh. M. · <span lang="nl">Kantoor</span><span lang="en">Office</span> · Google</footer>
+      </blockquote>
+      <blockquote class="rev">
+        <div class="stars" aria-label="5 van 5 sterren"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+        <p>“Extremely nice and professional! Even followed up later to see if everything is ok and with tips on a different question we had :)”</p>
+        <footer>Gal A. · <span lang="nl">Advies</span><span lang="en">Advice</span> · Google</footer>
       </blockquote>
     </div>
   </div>
@@ -623,7 +645,7 @@ footer.site a{color:#fff;text-decoration:none}footer.site a:hover{text-decoratio
 /* ===== Settings – edit these ===== */
 const PHONE = "31611716662";
 // Paste the link to Bas's Google Business Profile reviews here:
-const GOOGLE_REVIEWS_URL = "https://www.google.com/search?q=Elektricien+Bas+Amstelveen";
+const GOOGLE_REVIEWS_URL = "https://share.google/DkXc5CWJVsimw3Rsk";
 /* ================================ */
 
 const T = {
