@@ -1,0 +1,26 @@
+# Elektricien Bas
+
+> Certified electrician based in Elsrijk, Amstelveen (Netherlands), serving Amstelveen, Amsterdam, Aalsmeer, Haarlem and Almere. Homes and businesses. 24/7 emergency service. Dutch and English spoken. NEN 1010, NEN 3140 and SCIOS certified; business inspections through Keuring Service Nederland. Rated 4.8/5 from 36 Google reviews.
+
+## Contact
+- Phone / WhatsApp: +31 6 1171 6662
+- Email: baselektricien@gmail.com
+- Opening hours: Monday–Saturday 08:00–20:00; emergencies 24/7
+- Registered with the Amsterdam Chamber of Commerce as SiliQonTech, KvK 76814319
+- No call-out fee within the Amsterdam area (conditions on request)
+- Google reviews: https://share.google/DkXc5CWJVsimw3Rsk
+
+## Services
+- [Power faults and short circuits, 24/7](https://elektricien-bas.vercel.app/storing-elektricien-24-7/): tracing and repairing faults, tripping RCDs, outages in homes and businesses
+- [Fuse box replacement](https://elektricien-bas.vercel.app/groepenkast-vervangen/): new fuse boxes (groepenkast), extra circuits, earthing, 3-phase connections for solar panels and EV chargers
+- [EV charger installation](https://elektricien-bas.vercel.app/laadpaal-installeren-amstelveen/): home and business chargers, including a check of the fuse box and connection
+- [LED lighting](https://elektricien-bas.vercel.app/led-verlichting/): stair lighting, ambient and indoor/outdoor lighting, dimmers, sensors, smart lighting
+- [Electrical inspections for businesses](https://elektricien-bas.vercel.app/elektra-keuring-bedrijven/): SCIOS and NEN 3140 inspections for restaurants, shops and offices, with an inspection report
+- Security: CCTV cameras, video intercoms, smart doorbells
+- [English-speaking electrician](https://elektricien-bas.vercel.app/english-speaking-electrician-amsterdam/): quotes and communication in English for expats
+
+## Certifications
+- NEN 1010 (safe installation of electrical systems)
+- NEN 3140 (safe operation, maintenance and inspection)
+- SCIOS (inspection scheme often required by insurers)
+- Keuring Service Nederland (business inspections)
